@@ -17,7 +17,7 @@ For this double click on the .exe file and a graphic user interface should appea
 click the install button and wait til the process finished
 
 ## The ANOVA App
-To start the ANOVA App click on the Button that says "Run ANOVA", and a prompt window should pop up with an ip address. Copy this ip address in your browser window.
+To start the ANOVA App click on the Button that says "Run ANOVA", and a prompt window should pop up with an ip address. Parallel a browser opens up (it takes a bit of time to connect to the servers so don't worryjhm
 
 ![image](https://user-images.githubusercontent.com/109506200/201372465-b347c222-789a-449e-856f-2166a28e1440.png)
 
