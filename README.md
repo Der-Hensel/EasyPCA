@@ -15,6 +15,7 @@ For this double click on the .exe file and a graphic user interface should appea
 ![image](https://user-images.githubusercontent.com/109506200/201372190-4f874dbe-dc10-45b5-a62c-d8dbe7df1d6d.png)
 
 click the install button and wait til the process finished.
-To start the Application click on the run Buttons
+To start the Application click on the run Buttons and copy the ip address in prefferd browser
+
 
 
