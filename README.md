@@ -14,11 +14,7 @@ For this double click on the .exe file and a graphic user interface should appea
 
 ![image](https://user-images.githubusercontent.com/109506200/201372190-4f874dbe-dc10-45b5-a62c-d8dbe7df1d6d.png)
 
-click the install button and wait til the process finished
+click the install button and wait til the process finished.
+To start the Application click on the run Buttons
 
-## The ANOVA App
-To start the ANOVA App click on the Button that says "Run ANOVA", and a prompt window should pop up with an ip address. Parallel a browser opens up (it takes a bit of time to connect to the servers so don't worryjhm
 
-![image](https://user-images.githubusercontent.com/109506200/201372465-b347c222-789a-449e-856f-2166a28e1440.png)
-
-To use the Anova App it is possible to upload the Excel file into the Web App via drag and drop.
