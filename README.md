@@ -23,3 +23,6 @@ To start the ANOVA App press the "Run ANOVA" Button on the GUI and wait for the 
 To upload the data it is possible to drag and drop the Excel file in the box at the top of the site. To operate use the folliwing picture as a guide.
 
 ![Bild1](https://user-images.githubusercontent.com/109506200/207357094-3a903ba1-a4f9-4a37-aa62-5d3a114f8d8a.png)
+
+### Output ID
+The Output ID are the merged columns of the factors. It is important for the following apps. If you a 
