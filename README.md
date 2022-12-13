@@ -1,4 +1,4 @@
-# ezPCA
+# EasyPCA
 Web App for interactive Principal component analysis with feature selection via ANOVA, and interactive Data preprocessing
 
 It all starts with an Excel sheet:
