@@ -35,3 +35,14 @@ To start the preprocessing app you click on the "Run preprocessing" button in th
 
 
 IMPORTANT: The first columns has to be the Output ID....but with another name (like Sample_ID) 
+
+With the Metafile it is possible to color the datapoints according to the  chosen column in order to make a first assumption which of the factors does have an impact on the results. It is comparable to tha MatLab Toolbox
+
+### Scaling 
+Build into the App is the Autoscaler (or StandardScaler in Python syntax), the RobustScaler, and the MinMaxScaler. By clicking the buttons the scaled data gets plotted and it is possible to export the new scaled data as .csv file. 
+
+
+## EasyPCA
+
+To star the main app you have to click on "Run PCA" in the GUI. After drag and dropping the scaled data and metafile you can plot the PCA in two dimensions or three dimensions. With the sliders you can alter which principle coomponent is depicted on whcih axis and with the metafile it is possible to color the data according to the metafile.
+
