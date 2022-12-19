@@ -25,4 +25,13 @@ To upload the data it is possible to drag and drop the Excel file in the box at 
 ![Bild1](https://user-images.githubusercontent.com/109506200/207357094-3a903ba1-a4f9-4a37-aa62-5d3a114f8d8a.png)
 
 ### Output ID
-The Output ID are the merged columns of the factors. It is important for the following apps. If you a 
+The Output ID are the merged columns of the factors. It is important for the following apps. You can check the output ID by clicking submit without setting alpha.
+By setting alpha the non-signifikant features are kicked out of the table. After that you can export the table as a .csv file.
+
+## Preprocessing to have a first evaluation
+To start the preprocessing app you click on the "Run preprocessing" button in the GUI. After the server connection is established you can drag and drop your exported csv file or if you want to skip the ANOVA your Excel file in the first box on the top of the website. A metafile is also needed for this app in this metafile factors and metadata is listed as the following suggests
+
+![image](https://user-images.githubusercontent.com/109506200/208409682-8eecef88-beec-464f-984f-1310eff108fe.png)
+
+
+IMPORTANT: The first columns has to be the Output ID....but with another name (like Sample_ID) 
