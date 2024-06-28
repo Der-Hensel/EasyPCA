@@ -39,7 +39,7 @@ Build into the App is the Autoscaler (or StandardScaler in Python syntax), the R
 
 ## EasyPCA
 
-To start the main app you have to click on "Run PCA" in the GUI. After drag and dropping the scaled data and metafile you can plot the PCA in two dimensions or three dimensions. With the sliders you can alter which principle component is depicted on whcih axis and with the metafile it is possible to color the data according to the metafile.
+To start the main app you have to doule click the PCA batch file. After drag and dropping the scaled data and metafile you can plot the PCA in two dimensions or three dimensions. With the sliders you can alter which principle component is depicted on whcih axis and with the metafile it is possible to color the data according to the metafile.
 ## Default Mode of the PCA App
 ![grafik](https://github.com/Der-Hensel/EasyPCA/assets/109506200/e9dda82a-69b8-4a33-8234-b0eca517eda9)
 
