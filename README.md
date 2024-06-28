@@ -19,7 +19,7 @@ To start the Application click on the run Buttons and copy the ip address in pre
 
 
 ## ANOVA for feature selection
-To start the ANOVA App press the "Run ANOVA" Button on the GUI and wait for the server connection. 
+To start the ANOVA App press the double click the ANOVA batch file and wait for the local host connection. 
 To upload the data it is possible to drag and drop the Excel file in the box at the top of the site. To operate use the folliwing picture as a guide.
 
 ![Bild1](https://user-images.githubusercontent.com/109506200/207357094-3a903ba1-a4f9-4a37-aa62-5d3a114f8d8a.png)
@@ -29,14 +29,14 @@ The Output ID are the merged columns of the factors. It is important for the fol
 By setting alpha the non-signifikant features are kicked out of the table. After that you can export the table as a .csv file.
 
 ## Preprocessing to have a first evaluation
-To start the preprocessing app you click on the "Run preprocessing" button in the GUI. After the server connection is established you can drag and drop your exported csv file or if you want to skip the ANOVA your Excel file in the first box on the top of the website. A metafile is also needed for this app in this metafile factors and metadata is listed as the following suggests
+To start the preprocessing app you double click the preprocessing batch file. After the server connection is established you can drag and drop your exported csv file or if you want to skip the ANOVA your Excel file in the first box on the top of the website. A metafile is also needed for this app in this metafile factors and metadata is listed as the following suggests
 
 ![image](https://user-images.githubusercontent.com/109506200/208409682-8eecef88-beec-464f-984f-1310eff108fe.png)
 
 
 IMPORTANT: The first columns has to be the Output ID....but with another name (like Sample_ID) 
 
-With the Metafile it is possible to color the datapoints according to the  chosen column in order to make a first assumption which of the factors does have an impact on the results. It is comparable to tha MatLab Toolbox
+With the Metafile it is possible to color the datapoints according to the  chosen column in order to make a first assumption which of the factors does have an impact on the results. It is comparable to the MatLab Toolbox
 
 ### Scaling 
 Build into the App is the Autoscaler (or StandardScaler in Python syntax), the RobustScaler, and the MinMaxScaler. By clicking the buttons the scaled data gets plotted and it is possible to export the new scaled data as .csv file. 
