@@ -10,13 +10,7 @@ In this picture you see a randomized possible dataset with three factors and 14 
 
 
 ## Installing the necessary Packages
-For this double click on the .exe file and a graphic user interface should appear in the middle of your screen.
-
-![image](https://user-images.githubusercontent.com/109506200/201372190-4f874dbe-dc10-45b5-a62c-d8dbe7df1d6d.png)
-
-click the install button and wait til the process finished.
-To start the Application click on the run Buttons and copy the ip address in prefferd browser
-
+You need to install anaconda as the compiler first. Then click the install batch and wait till the process finished.
 
 ## ANOVA for feature selection
 To start the ANOVA App press the double click the ANOVA batch file and wait for the local host connection. 
