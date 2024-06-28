@@ -41,8 +41,19 @@ With the Metafile it is possible to color the datapoints according to the  chose
 ### Scaling 
 Build into the App is the Autoscaler (or StandardScaler in Python syntax), the RobustScaler, and the MinMaxScaler. By clicking the buttons the scaled data gets plotted and it is possible to export the new scaled data as .csv file. 
 
+![Opera Momentaufnahme_2024-06-28_183254_127 0 0 1](https://github.com/Der-Hensel/EasyPCA/assets/109506200/992f4daf-78ea-4c64-9268-dbca4c064a64)
 
 ## EasyPCA
 
-To star the main app you have to click on "Run PCA" in the GUI. After drag and dropping the scaled data and metafile you can plot the PCA in two dimensions or three dimensions. With the sliders you can alter which principle coomponent is depicted on whcih axis and with the metafile it is possible to color the data according to the metafile.
+To start the main app you have to click on "Run PCA" in the GUI. After drag and dropping the scaled data and metafile you can plot the PCA in two dimensions or three dimensions. With the sliders you can alter which principle component is depicted on whcih axis and with the metafile it is possible to color the data according to the metafile.
+## Default Mode of the PCA App
+![grafik](https://github.com/Der-Hensel/EasyPCA/assets/109506200/e9dda82a-69b8-4a33-8234-b0eca517eda9)
+
+## Two Dimensional Projection
+![grafik](https://github.com/Der-Hensel/EasyPCA/assets/109506200/a9da7272-3c72-4308-88fd-f32914fa146a)
+## Three Dimensional Projection
+![grafik](https://github.com/Der-Hensel/EasyPCA/assets/109506200/758d353b-12b6-4650-a11d-b586db9f2932)
+
+
+
 
