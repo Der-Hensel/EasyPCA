@@ -1,3 +1,10 @@
+"""
+@authors: Marcel Hensel & Jochen Vestner
+Watch out! This version uses global variables!
+The app should therefore only be used from a single user! Not in production!
+© Marcel Hensel & Jochen Vestner 2022
+"""
+
 import itertools
 import base64
 import datetime
